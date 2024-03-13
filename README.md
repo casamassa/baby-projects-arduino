@@ -18,3 +18,8 @@ https://www.tinkercad.com/things/bh6y3hYrUk5-fire-siren
 A simple project to simulate a mini piano with a 4 keys
 ![Circuit for mini piano](sketch-circuit-images/mini-piano.png)
 https://www.tinkercad.com/things/faz3K1Qb0CV-mini-piano
+
+> sketch-mini-piano-alternative
+A simple project to simulate a mini piano with a 4 keys, using pullup pinMode without resistors
+![Circuit for mini piano alternative](sketch-circuit-images/mini-piano-alternative.png)
+https://www.tinkercad.com/things/93dunjGG22G-mini-piano-alternative
