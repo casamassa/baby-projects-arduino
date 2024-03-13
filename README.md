@@ -23,3 +23,8 @@ https://www.tinkercad.com/things/faz3K1Qb0CV-mini-piano
 >A simple project to simulate a mini piano with a 4 keys, using pullup pinMode without resistors
 ![Circuit for mini piano alternative](sketch-circuit-images/mini-piano-alternative.png)
 https://www.tinkercad.com/things/93dunjGG22G-mini-piano-alternative
+
+### sketch-proximity-sensor-for-blind
+>A simple project to control proximity sensor for help a blind person
+![Circuit for proximity sensor for blind](sketch-circuit-images/proximity-sensor-for-blind.png)
+https://www.tinkercad.com/things/4h3dZjyo6E6-proximity-sensor-for-blind
