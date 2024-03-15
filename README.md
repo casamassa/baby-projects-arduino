@@ -28,3 +28,8 @@ https://www.tinkercad.com/things/93dunjGG22G-mini-piano-alternative
 >A simple project to control proximity sensor for help a blind person
 ![Circuit for proximity sensor for blind](sketch-circuit-images/proximity-sensor-for-blind.png)
 https://www.tinkercad.com/things/4h3dZjyo6E6-proximity-sensor-for-blind
+
+### sketch-smart-gate-controled-by-smartphone
+>A simple project to build a smart gate controled by smartphone
+![Circuit for smart gate controled by smartphone](sketch-circuit-images/smart-gate-controled-by-smartphone.png)
+https://www.tinkercad.com/things/3FuXdQu523L-smart-gate-controled-by-smartphone
